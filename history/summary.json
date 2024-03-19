@@ -1,5 +1,23 @@
 [
   {
+    "name": "dch website",
+    "url": "https://www.dch.de/home",
+    "icon": "https://icons.duckduckgo.com/ip3/www.dch.de.ico",
+    "slug": "dch-website",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1144,
+    "timeDay": 1144,
+    "timeWeek": 1144,
+    "timeMonth": 1144,
+    "timeYear": 1144,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "nl-api",
     "url": "https://api.djbobo.ch:433/api2/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.djbobo.ch.ico",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4343,
-    "timeDay": 4343,
-    "timeWeek": 4343,
-    "timeMonth": 4343,
-    "timeYear": 4343,
+    "time": 2554,
+    "timeDay": 2554,
+    "timeWeek": 2554,
+    "timeMonth": 2554,
+    "timeYear": 2554,
     "dailyMinutesDown": {}
   }
 ]
