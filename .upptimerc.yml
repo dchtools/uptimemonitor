@@ -10,7 +10,7 @@ sites:
     check: 'status-200'
   - name: djbobo website
     url: https://www.djbobo.ch
-      - name: dchlab
+  - name: dchlab
     url: https://lab.dch.de:8081
   - name: pb api
     url: https://dev.dch.de:8083/up.txt
