@@ -16,14 +16,10 @@ sites:
       - 200
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: dch.de
   baseUrl: /uptimemonitor
-  #logoUrl: https://www.dch.de/assets/images/dch_logo_blue.svg
   name: dch uptime
-  introTitle: 'Uptime monitor'
-  introMessage:
+  introTitle: "Uptime monitor"
+  introMessage: 
   navbar:
     - title: Status
       href: /
