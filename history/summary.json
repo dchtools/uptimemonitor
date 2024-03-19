@@ -58,19 +58,19 @@
     "url": "https://lab.dch.de:8081",
     "icon": "https://icons.duckduckgo.com/ip3/lab.dch.de.ico",
     "slug": "dchlab",
-    "status": "down",
-    "uptime": "98.89%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "98.89%",
-    "uptimeYear": "98.89%",
-    "time": 1092,
-    "timeDay": 1092,
-    "timeWeek": 1092,
-    "timeMonth": 1092,
-    "timeYear": 1092,
+    "status": "up",
+    "uptime": "41.43%",
+    "uptimeDay": "41.43%",
+    "uptimeWeek": "41.43%",
+    "uptimeMonth": "41.43%",
+    "uptimeYear": "41.43%",
+    "time": 872,
+    "timeDay": 872,
+    "timeWeek": 872,
+    "timeMonth": 872,
+    "timeYear": 872,
     "dailyMinutesDown": {
-      "2024-03-19": 0
+      "2024-03-19": 11
     }
   },
   {
