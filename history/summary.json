@@ -58,18 +58,20 @@
     "url": "https://lab.dch.de:8081",
     "icon": "https://icons.duckduckgo.com/ip3/lab.dch.de.ico",
     "slug": "dchlab",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.89%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "98.89%",
     "time": 1092,
     "timeDay": 1092,
     "timeWeek": 1092,
     "timeMonth": 1092,
     "timeYear": 1092,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-19": 0
+    }
   },
   {
     "name": "pb api",
