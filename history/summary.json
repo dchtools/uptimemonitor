@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dch.de.ico",
     "slug": "dch-website",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "78.82%",
+    "uptimeDay": "44.97%",
+    "uptimeWeek": "78.82%",
+    "uptimeMonth": "78.82%",
+    "uptimeYear": "78.82%",
     "time": 984,
-    "timeDay": 1174,
+    "timeDay": 0,
     "timeWeek": 984,
     "timeMonth": 984,
     "timeYear": 984,
     "dailyMinutesDown": {
-      "2024-03-21": 2
+      "2024-03-22": 5,
+      "2024-03-21": 787
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.djbobo.ch.ico",
     "slug": "nl-api",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "78.86%",
+    "uptimeDay": "45.01%",
+    "uptimeWeek": "78.86%",
+    "uptimeMonth": "78.86%",
+    "uptimeYear": "78.86%",
     "time": 2269,
-    "timeDay": 816,
+    "timeDay": 0,
     "timeWeek": 2269,
     "timeMonth": 2269,
     "timeYear": 2269,
     "dailyMinutesDown": {
-      "2024-03-21": 1
+      "2024-03-22": 5,
+      "2024-03-21": 787
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.djbobo.ch.ico",
     "slug": "djbobo-website",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "78.77%",
+    "uptimeDay": "45.05%",
+    "uptimeWeek": "78.77%",
+    "uptimeMonth": "78.77%",
+    "uptimeYear": "78.77%",
     "time": 1987,
-    "timeDay": 1319,
+    "timeDay": 0,
     "timeWeek": 1987,
     "timeMonth": 1987,
     "timeYear": 1987,
     "dailyMinutesDown": {
-      "2024-03-21": 1
+      "2024-03-22": 5,
+      "2024-03-21": 786
     }
   },
   {
@@ -70,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 841,
-    "timeDay": 914,
-    "timeWeek": 841,
-    "timeMonth": 841,
-    "timeYear": 841,
+    "time": 795,
+    "timeDay": 610,
+    "timeWeek": 795,
+    "timeMonth": 795,
+    "timeYear": 795,
     "dailyMinutesDown": {}
   },
   {
@@ -83,18 +86,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.dch.de.ico",
     "slug": "pb-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "78.79%",
+    "uptimeDay": "45.08%",
+    "uptimeWeek": "78.79%",
+    "uptimeMonth": "78.79%",
+    "uptimeYear": "78.79%",
     "time": 723,
-    "timeDay": 1015,
+    "timeDay": 0,
     "timeWeek": 723,
     "timeMonth": 723,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2024-03-21": 0
+      "2024-03-22": 5,
+      "2024-03-21": 786
     }
   }
 ]
