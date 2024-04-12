@@ -4,10 +4,10 @@
     "url": "https://www.dch.de/home",
     "icon": "https://icons.duckduckgo.com/ip3/www.dch.de.ico",
     "slug": "dch-website",
-    "status": "up",
+    "status": "down",
     "uptime": "95.04%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "95.04%",
     "uptimeYear": "95.04%",
     "time": 959,
@@ -16,6 +16,7 @@
     "timeMonth": 959,
     "timeYear": 959,
     "dailyMinutesDown": {
+      "2024-04-12": 1,
       "2024-03-22": 948,
       "2024-03-21": 787
     }
@@ -26,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.djbobo.ch.ico",
     "slug": "nl-api",
     "status": "up",
-    "uptime": "94.83%",
-    "uptimeDay": "97.91%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "94.83%",
-    "uptimeYear": "94.83%",
+    "uptime": "94.87%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "94.87%",
+    "uptimeYear": "94.87%",
     "time": 1060,
     "timeDay": 609,
     "timeWeek": 1024,
     "timeMonth": 1060,
     "timeYear": 1060,
     "dailyMinutesDown": {
-      "2024-04-12": 30,
+      "2024-04-12": 17,
       "2024-03-30": 46,
       "2024-03-22": 948,
       "2024-03-21": 787
@@ -48,9 +49,9 @@
     "url": "https://www.djbobo.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.djbobo.ch.ico",
     "slug": "djbobo-website",
-    "status": "up",
+    "status": "down",
     "uptime": "95.04%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.04%",
     "uptimeYear": "95.04%",
@@ -60,6 +61,7 @@
     "timeMonth": 1526,
     "timeYear": 1526,
     "dailyMinutesDown": {
+      "2024-04-12": 0,
       "2024-03-22": 948,
       "2024-03-21": 786
     }
