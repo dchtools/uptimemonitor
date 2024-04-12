@@ -4,10 +4,10 @@
     "url": "https://www.dch.de/home",
     "icon": "https://icons.duckduckgo.com/ip3/www.dch.de.ico",
     "slug": "dch-website",
-    "status": "up",
+    "status": "down",
     "uptime": "95.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "95.02%",
     "uptimeYear": "95.02%",
     "time": 979,
@@ -16,6 +16,7 @@
     "timeMonth": 979,
     "timeYear": 979,
     "dailyMinutesDown": {
+      "2024-04-12": 1,
       "2024-03-22": 948,
       "2024-03-21": 787
     }
@@ -25,10 +26,10 @@
     "url": "https://api.djbobo.ch:433/api2/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.djbobo.ch.ico",
     "slug": "nl-api",
-    "status": "up",
+    "status": "down",
     "uptime": "94.84%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "94.84%",
     "uptimeYear": "94.84%",
     "time": 1093,
@@ -37,7 +38,7 @@
     "timeMonth": 1093,
     "timeYear": 1093,
     "dailyMinutesDown": {
-      "2024-04-12": 17,
+      "2024-04-12": 18,
       "2024-03-30": 46,
       "2024-03-22": 948,
       "2024-03-21": 787
@@ -48,9 +49,9 @@
     "url": "https://www.djbobo.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.djbobo.ch.ico",
     "slug": "djbobo-website",
-    "status": "up",
+    "status": "down",
     "uptime": "95.02%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.02%",
     "uptimeYear": "95.02%",
@@ -60,6 +61,7 @@
     "timeMonth": 1594,
     "timeYear": 1594,
     "dailyMinutesDown": {
+      "2024-04-12": 0,
       "2024-03-22": 948,
       "2024-03-21": 786
     }
@@ -88,18 +90,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.dch.de.ico",
     "slug": "pb-api",
     "status": "up",
-    "uptime": "94.89%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "94.89%",
-    "uptimeYear": "94.89%",
+    "uptime": "94.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "94.91%",
+    "uptimeYear": "94.91%",
     "time": 637,
     "timeDay": 621,
     "timeWeek": 642,
     "timeMonth": 637,
     "timeYear": 637,
     "dailyMinutesDown": {
-      "2024-04-12": 6,
       "2024-03-30": 40,
       "2024-03-22": 949,
       "2024-03-21": 786
