@@ -1,7 +1,7 @@
 url: https://dev.dch.de:8083/up.txt
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-12T11:30:56.082Z
+status: up
+code: 200
+responseTime: 664
+lastUpdated: 2024-04-12T11:37:10.570Z
 startTime: 2024-03-19T09:56:40.595Z
 generator: Upptime <https://github.com/upptime/upptime>
