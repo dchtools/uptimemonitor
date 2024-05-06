@@ -1,7 +1,7 @@
 url: https://lima.dch.de:8080/api/v1
-status: down
-code: 502
-responseTime: 519
-lastUpdated: 2024-05-05T23:11:57.982Z
+status: up
+code: 200
+responseTime: 483
+lastUpdated: 2024-05-06T04:53:09.318Z
 startTime: 2024-05-04T15:35:51.098Z
 generator: Upptime <https://github.com/upptime/upptime>
