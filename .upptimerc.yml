@@ -6,7 +6,7 @@ sites:
   - name: dch website
     url: https://www.dch.de/home
   - name: nl-api
-    url: https://api.djbobo.ch/api2/health
+    url: https://api.djbobo.ch:8081/api2/health
     check: 'status-200'
   - name: djbobo website
     url: https://www.djbobo.ch
@@ -17,8 +17,7 @@ sites:
     url: https://lab.dch.de
   - name: pb api
     url: https://api.djbobo.ch/api/health
-    expectedStatusCodes:
-      - 200
+    check: 'status-200'
 
 status-website:
   baseUrl: /uptimemonitor
