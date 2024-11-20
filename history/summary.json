@@ -87,19 +87,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.djbobo.ch.ico",
     "slug": "nolima-server",
     "status": "up",
-    "uptime": "50.11%",
-    "uptimeDay": "50.11%",
-    "uptimeWeek": "50.11%",
-    "uptimeMonth": "50.11%",
-    "uptimeYear": "50.11%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 515,
     "timeDay": 515,
     "timeWeek": 515,
     "timeMonth": 515,
     "timeYear": 515,
-    "dailyMinutesDown": {
-      "2024-11-20": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "dchlab",
