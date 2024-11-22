@@ -23,6 +23,7 @@ sites:
 status-website:
   baseUrl: /uptimemonitor
   name: dch uptime
+  theme: dark
   introTitle: "Uptime monitor"
   introMessage: 
   navbar:
