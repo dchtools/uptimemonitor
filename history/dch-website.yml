@@ -1,7 +1,7 @@
 url: https://www.dch.de/home
-status: up
-code: 200
-responseTime: 1049
-lastUpdated: 2025-01-26T23:04:20.011Z
+status: down
+code: 500
+responseTime: 608
+lastUpdated: 2025-01-27T13:00:56.258Z
 startTime: 2024-03-19T09:43:31.785Z
 generator: Upptime <https://github.com/upptime/upptime>
