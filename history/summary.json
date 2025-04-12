@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1028,
-    "timeDay": 757,
-    "timeWeek": 918,
-    "timeMonth": 1022,
+    "timeDay": 1165,
+    "timeWeek": 963,
+    "timeMonth": 1033,
     "timeYear": 1032,
     "dailyMinutesDown": {
       "2024-05-18": 315
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.20%",
-    "time": 949,
-    "timeDay": 626,
-    "timeWeek": 707,
-    "timeMonth": 735,
+    "time": 948,
+    "timeDay": 603,
+    "timeWeek": 703,
+    "timeMonth": 738,
     "timeYear": 930,
     "dailyMinutesDown": {
       "2024-12-01": 28,
@@ -45,8 +45,7 @@
       "2024-09-06": 1,
       "2024-09-05": 64,
       "2024-08-28": 859,
-      "2024-08-27": 54,
-      "2024-04-12": 17
+      "2024-08-27": 54
     }
   },
   {
@@ -61,9 +60,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 1124,
-    "timeDay": 762,
-    "timeWeek": 632,
-    "timeMonth": 638,
+    "timeDay": 967,
+    "timeWeek": 691,
+    "timeMonth": 653,
     "timeYear": 1102,
     "dailyMinutesDown": {
       "2024-09-26": 41,
@@ -86,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 578,
-    "timeDay": 534,
-    "timeWeek": 538,
-    "timeMonth": 558,
-    "timeYear": 578,
+    "time": 577,
+    "timeDay": 565,
+    "timeWeek": 552,
+    "timeMonth": 559,
+    "timeYear": 577,
     "dailyMinutesDown": {
       "2024-12-01": 19
     }
@@ -101,15 +100,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/lab.dch.de.ico",
     "slug": "dchlab",
     "status": "up",
-    "uptime": "95.63%",
+    "uptime": "95.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "95.14%",
     "uptimeYear": "95.36%",
     "time": 970,
-    "timeDay": 634,
-    "timeWeek": 625,
-    "timeMonth": 764,
+    "timeDay": 847,
+    "timeWeek": 645,
+    "timeMonth": 753,
     "timeYear": 980,
     "dailyMinutesDown": {
       "2025-04-09": 16,
@@ -179,9 +178,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
     "time": 627,
-    "timeDay": 545,
-    "timeWeek": 545,
-    "timeMonth": 572,
+    "timeDay": 586,
+    "timeWeek": 551,
+    "timeMonth": 569,
     "timeYear": 626,
     "dailyMinutesDown": {
       "2024-12-01": 34,
