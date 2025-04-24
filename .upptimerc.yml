@@ -15,7 +15,7 @@ sites:
     url: https://api.djbobo.ch:8080/api/v1
     check: 'status-200'
   - name: dchlab
-    url: https://lab.dch.de
+    url: https://lab.dch.de:8080
   - name: pb api
     url: https://api.djbobo.ch/api/health
     check: 'status-200'
