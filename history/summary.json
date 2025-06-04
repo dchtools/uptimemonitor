@@ -4,9 +4,9 @@
     "url": "https://www.dch.de/home",
     "icon": "https://icons.duckduckgo.com/ip3/www.dch.de.ico",
     "slug": "dch-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1027,
     "timeMonth": 1102,
     "timeYear": 1055,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-04": 0
+    }
   },
   {
     "name": "nl-api",
@@ -99,12 +101,12 @@
     "slug": "dchlab",
     "status": "up",
     "uptime": "94.26%",
-    "uptimeDay": "97.90%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.22%",
     "uptimeMonth": "98.74%",
-    "uptimeYear": "93.06%",
+    "uptimeYear": "93.07%",
     "time": 956,
-    "timeDay": 940,
+    "timeDay": 1080,
     "timeWeek": 883,
     "timeMonth": 878,
     "timeYear": 999,
