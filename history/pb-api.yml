@@ -1,7 +1,7 @@
 url: https://api.djbobo.ch/api/health
-status: up
-code: 200
-responseTime: 728
-lastUpdated: 2025-07-11T23:05:31.049Z
+status: down
+code: 502
+responseTime: 361
+lastUpdated: 2025-07-12T18:31:45.873Z
 startTime: 2024-03-19T09:56:40.595Z
 generator: Upptime <https://github.com/upptime/upptime>
