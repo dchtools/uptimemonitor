@@ -1,7 +1,7 @@
 url: https://lab.dch.de:8080
-status: down
-code: 500
-responseTime: 566
-lastUpdated: 2025-07-16T11:47:02.513Z
+status: up
+code: 200
+responseTime: 792
+lastUpdated: 2025-07-16T11:52:39.170Z
 startTime: 2024-03-19T11:25:07.309Z
 generator: Upptime <https://github.com/upptime/upptime>
