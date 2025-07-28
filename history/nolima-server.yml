@@ -1,7 +1,7 @@
 url: https://api.djbobo.ch:8080/api/v1
-status: up
-code: 200
-responseTime: 705
-lastUpdated: 2025-07-27T23:05:24.880Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-07-28T06:26:42.950Z
 startTime: 2024-11-20T14:16:52.035Z
 generator: Upptime <https://github.com/upptime/upptime>
