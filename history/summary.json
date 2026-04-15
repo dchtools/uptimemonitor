@@ -51,7 +51,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.djbobo.ch.ico",
     "slug": "djbobo-website",
     "status": "down",
-    "uptime": "86.22%",
+    "uptime": "86.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -62,7 +62,8 @@
     "timeMonth": 906,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2026-04-14": 1424,
+      "2026-04-15": 20,
+      "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
