@@ -1,7 +1,7 @@
 url: https://api.djbobo.ch:8081/api2/health
 status: up
 code: 200
-responseTime: 560
-lastUpdated: 2026-07-06T23:27:36.327Z
+responseTime: 500
+lastUpdated: 2026-07-07T23:22:18.876Z
 startTime: 2024-03-19T09:39:23.154Z
 generator: Upptime <https://github.com/upptime/upptime>
