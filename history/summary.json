@@ -4,20 +4,20 @@
     "url": "https://www.dch.de/home",
     "icon": "https://icons.duckduckgo.com/ip3/www.dch.de.ico",
     "slug": "dch-website",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
-    "time": 925,
-    "timeDay": 849,
-    "timeWeek": 721,
-    "timeMonth": 744,
+    "time": 924,
+    "timeDay": 717,
+    "timeWeek": 704,
+    "timeMonth": 739,
     "timeYear": 847,
     "dailyMinutesDown": {
       "2026-01-02": 221,
-      "2026-10-07": 3
+      "2026-10-07": 6
     }
   },
   {
