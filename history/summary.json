@@ -4,10 +4,10 @@
     "url": "https://www.dch.de/home",
     "icon": "https://icons.duckduckgo.com/ip3/www.dch.de.ico",
     "slug": "dch-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 910,
@@ -16,7 +16,8 @@
     "timeMonth": 722,
     "timeYear": 842,
     "dailyMinutesDown": {
-      "2026-01-02": 221
+      "2026-01-02": 221,
+      "2026-10-21": 1
     }
   },
   {
@@ -24,20 +25,21 @@
     "url": "https://api.djbobo.ch:8081/api2/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.djbobo.ch.ico",
     "slug": "nl-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 865,
+    "time": 866,
     "timeDay": 818,
     "timeWeek": 719,
     "timeMonth": 705,
     "timeYear": 850,
     "dailyMinutesDown": {
       "2026-01-02": 100,
-      "2026-05-23": 21
+      "2026-05-23": 21,
+      "2026-10-21": 1
     }
   },
   {
@@ -45,13 +47,13 @@
     "url": "https://www.djbobo.ch/v.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.djbobo.ch.ico",
     "slug": "djbobo-website",
-    "status": "up",
+    "status": "down",
     "uptime": "87.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "68.46%",
-    "time": 973,
+    "time": 974,
     "timeDay": 938,
     "timeWeek": 694,
     "timeMonth": 723,
@@ -172,7 +174,8 @@
       "2026-01-06": 1440,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
-      "2026-01-03": 1440
+      "2026-01-03": 1440,
+      "2026-10-21": 1
     }
   },
   {
@@ -180,10 +183,10 @@
     "url": "https://api.djbobo.ch:8080/api/v1",
     "icon": "https://icons.duckduckgo.com/ip3/api.djbobo.ch.ico",
     "slug": "nolima-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 675,
@@ -193,7 +196,8 @@
     "timeYear": 684,
     "dailyMinutesDown": {
       "2026-05-23": 51,
-      "2026-07-09": 34
+      "2026-07-09": 34,
+      "2026-10-21": 1
     }
   },
   {
@@ -230,9 +234,9 @@
     "url": "https://api.djbobo.ch/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.djbobo.ch.ico",
     "slug": "pb-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -241,6 +245,8 @@
     "timeWeek": 661,
     "timeMonth": 613,
     "timeYear": 698,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-21": 0
+    }
   }
 ]
